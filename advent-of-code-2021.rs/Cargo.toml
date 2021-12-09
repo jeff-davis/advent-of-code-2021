@@ -9,3 +9,9 @@ name = "day01part1"
 
 [[bin]]
 name = "day01part2"
+
+[[bin]]
+name = "day02part1"
+
+[[bin]]
+name = "day02part2"
